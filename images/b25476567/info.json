@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 101,
+    "height" : 64
+  }, {
+    "width" : 201,
+    "height" : 128
+  }, {
+    "width" : 401,
+    "height" : 255
+  }, {
+    "width" : 801,
+    "height" : 509
+  }, {
+    "width" : 1602,
+    "height" : 1017
+  }, {
+    "width" : 3204,
+    "height" : 2033
+  } ],
+  "profile" : "level0",
+  "width" : 3204,
+  "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b25476567",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2033
+}
