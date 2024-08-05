@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3294,
+    "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b44637184/canvas/",
+    "label" : {
+      "none" : [ "b44637184" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b44637184/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b44637184/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 103,
+              "height" : 66
+            }, {
+              "width" : 206,
+              "height" : 132
+            }, {
+              "width" : 412,
+              "height" : 263
+            }, {
+              "width" : 824,
+              "height" : 525
+            }, {
+              "width" : 1647,
+              "height" : 1050
+            }, {
+              "width" : 3294,
+              "height" : 2100
+            } ],
+            "profile" : "level0",
+            "width" : 3294,
+            "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b44637184",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2100
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3294,
+          "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b44637184/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2100
+        },
+        "target" : "https://veesalu.github.io/RaRaIIIFimages/images/b44637184/canvas/"
+      } ]
+    } ],
+    "height" : 2100
+  }, {
     "width" : 3204,
     "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b25476567/canvas/",
     "label" : {
