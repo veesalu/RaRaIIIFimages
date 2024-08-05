@@ -1,0 +1,67 @@
+{
+  "id" : "https://veesalu.github.io/RaRaIIIFimages/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in veesalu/RaRaIIIFimages project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3204,
+    "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b25476567/canvas/",
+    "label" : {
+      "none" : [ "b25476567" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b25476567/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b25476567/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 101,
+              "height" : 64
+            }, {
+              "width" : 201,
+              "height" : 128
+            }, {
+              "width" : 401,
+              "height" : 255
+            }, {
+              "width" : 801,
+              "height" : 509
+            }, {
+              "width" : 1602,
+              "height" : 1017
+            }, {
+              "width" : 3204,
+              "height" : 2033
+            } ],
+            "profile" : "level0",
+            "width" : 3204,
+            "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b25476567",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2033
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3204,
+          "id" : "https://veesalu.github.io/RaRaIIIFimages/images/b25476567/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2033
+        },
+        "target" : "https://veesalu.github.io/RaRaIIIFimages/images/b25476567/canvas/"
+      } ]
+    } ],
+    "height" : 2033
+  } ]
+}
