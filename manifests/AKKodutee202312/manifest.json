@@ -153,7 +153,7 @@
   ],
   "items": [
     {
-      "id": "https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1",
+      "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0001/canvas/p1",
       "type": "Canvas",
       "label": {
         "none": [
@@ -172,27 +172,27 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://veesalu.github.io/RaRaIIIFimages/images/0001/full/max/0/default.jpg",
+                "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0001/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3414,
                 "width": 2363,
                 "service": [
                   {
-                    "id": "https://veesalu.github.io/RaRaIIIFimages/images/0001",
+                    "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0001",
                     "type": "ImageService3",
                     "profile": "level0"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1"
+              "target": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0001/canvas/p1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://veesalu.github.io/RaRaIIIFimages/images/0002/canvas/p2",
+      "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0002/canvas/p2",
       "type": "Canvas",
       "label": {
         "none": [
@@ -211,20 +211,20 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://veesalu.github.io/RaRaIIIFimages/images/0002/full/max/0/default.jpg",
+                "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0002/full/max/0/default.jpg",
                 "type": "Image",
                 "height": 3414,
                 "width": 2363,
                 "service": [
                   {
-                    "id": "https://veesalu.github.io/RaRaIIIFimages/images/0002",
+                    "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0002",
                     "type": "ImageService3",
                     "profile": "level0"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://veesalu.github.io/RaRaIIIFimages/images/0002/canvas/p2"
+              "target": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0002/canvas/p2"
             }
           ]
         }
