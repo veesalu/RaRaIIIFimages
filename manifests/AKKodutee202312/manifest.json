@@ -1,0 +1,234 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Koduteel : Eesti Metodisti Kiriku ajakiri, nr. 151, detsember 2023"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Publisher"
+        ],
+        "et": [
+          "Kirjastaja"
+        ]
+      },
+      "value": {
+        "none": [
+          "EMK kirjastustoimkond"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Place of publication"
+        ],
+        "et": [
+          "Ilmumiskohta"
+        ]
+      },
+      "value": {
+        "none": [
+          "Tallinn"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Material Type"
+        ],
+        "et": [
+          "Laad"
+        ]
+      },
+      "value": {
+        "en": [
+          "Journal"
+        ],
+        "et": [
+          "Ajakiri"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Language"
+        ],
+        "et": [
+          "Keel"
+        ]
+      },
+      "value": {
+        "en": [
+          "Estonian"
+        ],
+        "et": [
+          "Eesti"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Calendar Type"
+        ],
+        "et": [
+          "Kalendritüüp"
+        ]
+      },
+      "value": {
+        "en": [
+          "Gregorian"
+        ],
+        "et": [
+          "Gregoriuse"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Availability"
+        ],
+        "et": [
+          "Kättesaadavus"
+        ]
+      },
+      "value": {
+        "en": [
+          "Available after six months"
+        ],
+        "et": [
+          "Kättesaadav kuus kuud pärast ilmumist"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Subjects"
+        ],
+        "et": [
+          "Märksõnad"
+        ]
+      },
+      "value": {
+        "none": [
+          "<p>metodism <a href=\"https://ems.elnet.ee/id/EMS146489\"</a></p>"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ],
+      "et": [
+        "Omistus"
+      ]
+    },
+    "value": {
+      "en": [
+        "National Library of Estonia"
+      ],
+      "et": [
+        "Eesti Rahvusraamatukogu"
+      ]
+    }
+  },
+  "viewingDirection": "left-to-right",
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "navDate": "2023-12-01T00:00:00+00:00",
+  "behavior": [
+    "individuals",
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "lehekülg 1"
+        ]
+      },
+      "height": 3414,
+      "width": 2363,
+      "items": [
+        {
+          "id": "http://example.org/iiif/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/images/0001/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 3414,
+                "width": 2363,
+                "service": [
+                  {
+                    "id": "https://veesalu.github.io/RaRaIIIFimages/images/0001",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://veesalu.github.io/RaRaIIIFimages/images/0002/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "lehekülg 2"
+        ]
+      },
+      "height": 3414,
+      "width": 2363,
+      "items": [
+        {
+          "id": "http://example.org/iiif/4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/images/0002/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 3414,
+                "width": 2363,
+                "service": [
+                  {
+                    "id": "https://veesalu.github.io/RaRaIIIFimages/images/0002",
+                    "type": "ImageService3",
+                    "profile": "level0"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://veesalu.github.io/RaRaIIIFimages/images/0002/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
