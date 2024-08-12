@@ -1,409 +1,408 @@
-
-        {
-            "@context":"http://iiif.io/api/presentation/3/context.json",
-            "id":"https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json",
-            "type":"AnnotationPage",
-            "items":[
+{
+    "@context":"http://iiif.io/api/presentation/3/context.json",
+    "id":"https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json",
+    "type":"AnnotationPage",
+    "items":[
                     
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-1",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-1",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"Koduteel"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=180.00,159.00,1653.00,291.00"
+            "value":"Koduteel"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=180.00,159.00,1653.00,291.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
-                        
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-2",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+                    ,
+                    "partOf":
+    				{
+    					"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+        				"type": "Manifest"
+        			}
+                    
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-2",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"EESTI"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=718.00,146.00,158.00,36.00"
+            "value":"EESTI"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=718.00,146.00,158.00,36.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
-                        
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-3",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+                    ,
+                    "partOf":
+        			{
+        				"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+        				"type": "Manifest"
+        			}
+                    
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-3",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":""
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=876.00,182.00,42.00,"
+            "value":""
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=876.00,182.00,42.00,"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+    					"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+    					"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-4",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-4",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"METODISTI"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=918.00,146.00,334.00,36.00"
+            "value":"METODISTI"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=918.00,146.00,334.00,36.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
-                        
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-5",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+                    ,
+                    "partOf":
+        			{
+    					"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+    					"type": "Manifest"
+        			}
+                    
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-5",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":""
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1252.00,182.00,42.00,"
+            "value":""
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1252.00,182.00,42.00,"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+    					"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+        				"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-6",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-6",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"KIRIKU"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1294.00,146.00,203.00,36.00"
+            "value":"KIRIKU"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1294.00,146.00,203.00,36.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
-                        
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-7",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+                    ,
+                    "partOf":
+        			{
+    					"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+    					"type": "Manifest"
+        			}
+                    
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-7",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":""
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1497.00,182.00,39.00,"
+            "value":""
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1497.00,182.00,39.00,"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
-                        
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-8",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+                    ,
+                    "partOf":
+        			{
+    					"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+    				    "type": "Manifest"
+        			}
+                    
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-8",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"AJAKIRI"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1536.00,146.00,239.00,36.00"
+            "value":"AJAKIRI"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1536.00,146.00,239.00,36.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+    					"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+    					"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-9",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-9",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"Nr."
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,409.00,24.00,43.00"
+            "value":"Nr."
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,409.00,24.00,43.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+    					"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+    					"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-10",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-10",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":""
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,395.00,24.00,"
+            "value":""
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,395.00,24.00,"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+    				{
+        				"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+        				"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-11",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-11",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"151,"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,332.00,28.00,63.00"
+            "value":"151,"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,332.00,28.00,63.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+        				"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+    					"type": "Manifest"
+    				}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-12",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-12",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":""
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,318.00,28.00,"
+            "value":""
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,318.00,28.00,"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+        				"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+        				"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-13",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-13",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"dets"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,250.00,24.00,68.00"
+            "value":"dets"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,250.00,24.00,68.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+    				{
+        				"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+        				"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-14",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-14",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":""
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,236.00,28.00,"
+            "value":""
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,236.00,28.00,"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+    					"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+    					"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-15",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-15",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"2023"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,162.00,24.00,74.00"
+            "value":"2023"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=78.00,162.00,24.00,74.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+        				"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+        				"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-16",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-16",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"PÜHAKIRI,"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1178.00,2000.00,424.00,117.00"
+            "value":"PÜHAKIRI,"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1178.00,2000.00,424.00,117.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+        				"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+        				"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-17",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-17",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"TRADITSIOON,"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1171.00,2163.00,593.00,98.00"
+            "value":"TRADITSIOON,"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1171.00,2163.00,593.00,98.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+        				"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+        				"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-18",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-18",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"MÕISTUS,"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1178.00,2286.00,410.00,120.00"
+            "value":"MÕISTUS,"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1178.00,2286.00,410.00,120.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+        				"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+        				"type": "Manifest"
+        			}
                         
-                    },
-                    {
-                        "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-19",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            },
+            {
+                "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list.json-19",
+                "type":"Annotation",
+                "motivation":"commenting",
+                "body":
+                {
+                    "type":"TextualBody",
+                    "format":"text/plain",
                             
-                    "value":"KOGEMUS"
-                        },
-                        "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1182.00,2448.00,642.00,124.00"
+             "value":"KOGEMUS"
+                },
+                "target":"https://veesalu.github.io/RaRaIIIFimages/images/0001/canvas/p1#xywh=1182.00,2448.00,642.00,124.00"
                         
-                            ,
-                            "partOf":
-        					{
-        						"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
-        						"type": "Manifest"
-        					}
+                    ,
+                    "partOf":
+        			{
+        				"id": "https://veesalu.github.io/RaRaIIIFimages/manifests/AKKodutee202312/manifest.json",
+        				"type": "Manifest"
+        			}
                         
-                    }
-            ]
-        }
+            }
+    ]
+}
     
