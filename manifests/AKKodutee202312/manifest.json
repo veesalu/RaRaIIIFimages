@@ -168,9 +168,9 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0001/annotation/p1/1",
+              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-1.json-1",
               "type": "Annotation",
-              "motivation": "commenting",
+              "motivation": "painting",
               "body": {
                 "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0001/full/max/0/default.jpg",
                 "type": "Image",
@@ -207,9 +207,9 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0002/annotation/p2/1",
+              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-2.json-1",
               "type": "Annotation",
-              "motivation": "commenting",
+              "motivation": "painting",
               "body": {
                 "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0002/full/max/0/default.jpg",
                 "type": "Image",
@@ -246,9 +246,9 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0003/annotation/p3/1",
+              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-3.json-1",
               "type": "Annotation",
-              "motivation": "commenting",
+              "motivation": "painting",
               "body": {
                 "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0003/full/max/0/default.jpg",
                 "type": "Image",
