@@ -29,7 +29,7 @@
           "Place of publication"
         ],
         "et": [
-          "Ilmumiskohta"
+          "Ilmumiskoht"
         ]
       },
       "value": {
@@ -103,10 +103,10 @@
       },
       "value": {
         "en": [
-          "Available after six months"
+          "Available after six months."
         ],
         "et": [
-          "Kättesaadav kuus kuud pärast ilmumist"
+          "Kättesaadav kuus kuud pärast ilmumist."
         ]
       }
     },
@@ -164,11 +164,11 @@
       "width": 2363,
       "items": [
         {
-          "id": "http://example.org/iiif/2",
+          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0001/annotation/p1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://example.org/iiif/1",
+              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0001/annotation/p1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -203,11 +203,11 @@
       "width": 2363,
       "items": [
         {
-          "id": "http://example.org/iiif/4",
+          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0002/annotation/p2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://example.org/iiif/3",
+              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0002/annotation/p2/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -242,11 +242,11 @@
       "width": 2363,
       "items": [
         {
-          "id": "http://example.org/iiif/6",
+          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0003/annotation/p3",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://example.org/iiif/5",
+              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0003/annotation/p3/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
