@@ -145,7 +145,7 @@
     }
   },
   "viewingDirection": "left-to-right",
-  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "navDate": "2023-12-01T00:00:00+00:00",
   "behavior": [
     "individuals",
@@ -164,7 +164,7 @@
       "width": 2363,
       "items": [
         {
-          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0001/annotation/p1",
+          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-1.json",
           "type": "AnnotationPage",
           "items": [
             {
@@ -203,7 +203,7 @@
       "width": 2363,
       "items": [
         {
-          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0002/annotation/p2",
+          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-2.json",
           "type": "AnnotationPage",
           "items": [
             {
@@ -242,7 +242,7 @@
       "width": 2363,
       "items": [
         {
-          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0003/annotation/p3",
+          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-3.json",
           "type": "AnnotationPage",
           "items": [
             {
