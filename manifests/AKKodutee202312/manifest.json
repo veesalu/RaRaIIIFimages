@@ -170,7 +170,7 @@
             {
               "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0001/annotation/p1/1",
               "type": "Annotation",
-              "motivation": "painting",
+              "motivation": "commenting",
               "body": {
                 "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0001/full/max/0/default.jpg",
                 "type": "Image",
@@ -209,7 +209,7 @@
             {
               "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0002/annotation/p2/1",
               "type": "Annotation",
-              "motivation": "painting",
+              "motivation": "commenting",
               "body": {
                 "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0002/full/max/0/default.jpg",
                 "type": "Image",
@@ -248,7 +248,7 @@
             {
               "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/0003/annotation/p3/1",
               "type": "Annotation",
-              "motivation": "painting",
+              "motivation": "commenting",
               "body": {
                 "id": "https://veesalu.github.io/RaRaIIIFimages/images/AKKodutee202312/0003/full/max/0/default.jpg",
                 "type": "Image",
