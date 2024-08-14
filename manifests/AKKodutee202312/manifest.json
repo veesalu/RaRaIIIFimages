@@ -157,18 +157,18 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "lehekülg 1"
+          "1"
         ]
       },
       "height": 3414,
       "width": 2363,
       "items": [
         {
-          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/annotations.json",
+          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-1.json",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-1.json",
+              "id": "http://example.org/iiif/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -196,18 +196,18 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "lehekülg 2"
+          "2"
         ]
       },
       "height": 3414,
       "width": 2363,
       "items": [
         {
-          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/annotations.json",
+          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-2.json",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-2.json",
+              "id": "http://example.org/iiif/2",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -235,18 +235,18 @@
       "type": "Canvas",
       "label": {
         "none": [
-          "lehekülg 3"
+          "3"
         ]
       },
       "height": 3414,
       "width": 2363,
       "items": [
         {
-          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/annotations.json",
+          "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-3.json",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://veesalu.github.io/RaRaIIIFimages/annotations/AKKodutee202312/anno_list-3.json",
+              "id": "http://example.org/iiif/3",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
